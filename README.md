@@ -1,10 +1,10 @@
-# 👋 ¡Hola! Soy Alfredo Vázquez Martínez
+# 👋 ¡Hola! Soy Alfredo Vazquez Martinez
 
 ### 🎓 Estudiante de Ingeniería en Ciencias de la Computación — BUAP
 
 Soy estudiante de último semestre en la **Benemérita Universidad Autónoma de Puebla (BUAP)**, apasionado por la programación, la inteligencia artificial y el desarrollo de software.
 
-- 💡 Interesado en proyectos de **IA**, y **ciencia de datos**
+- 💡 Interesado en proyectos de **IA** y **ciencia de datos**
 - 🧠 En constante aprendizaje y siempre dispuesto a colaborar
 - 🚀 Buscando oportunidades para crecer como desarrollador
 
