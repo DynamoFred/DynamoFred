@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alfredo Vázquez Martínez
+
+### 🎓 Estudiante de Ingeniería en Ciencias de la Computación — BUAP
+
+Soy estudiante de último semestre en la **Benemérita Universidad Autónoma de Puebla (BUAP)**, apasionado por la programación, la inteligencia artificial y el desarrollo de software.
+
+- 💡 Interesado en proyectos de **IA**, y **ciencia de datos**
+- 🧠 En constante aprendizaje y siempre dispuesto a colaborar
+- 🚀 Buscando oportunidades para crecer como desarrollador
+
+[![LinkedIn - Alfredo Vázquez](https://img.shields.io/badge/LinkedIn-Alfredo%20Vázquez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alfredo-dev-cs-ai/)
 
 <!--
 **DynamoFred/DynamoFred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
