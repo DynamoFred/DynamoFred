@@ -1,3 +1,5 @@
+![https://github.com/DynamoFred](./banner-github.png)
+
 # 👋 ¡Hi! My name is Alfredo Vazquez Martinez
 
 ### 🎓 I'm a Computer Science Engineering Student — BUAP
