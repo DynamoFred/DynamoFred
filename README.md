@@ -6,7 +6,7 @@ I'm a student from **Benemérita Universidad Autónoma de Puebla (BUAP)**, passi
 
 ## My interests
 
-- 💡 i'm interested in **IA**, **data science** and **machine learning**
+- 💡 I'm interested in **IA**, **data science** and **machine learning**
 - 🧠 Constantly learning and willing to collaborate
 - 🚀 Looking for opportunities to grow as a developer
 
