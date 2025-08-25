@@ -1,12 +1,14 @@
-# 👋 ¡Hola! Soy Alfredo Vazquez Martinez
+# 👋 ¡Hi! My name is Alfredo Vazquez Martinez
 
-### 🎓 Estudiante de Ingeniería en Ciencias de la Computación — BUAP
+### 🎓 I'm a Computer Science Engineering Student — BUAP
 
-Soy estudiante de último semestre en la **Benemérita Universidad Autónoma de Puebla (BUAP)**, apasionado por la programación, la inteligencia artificial y el desarrollo de software.
+I'm a student from **Benemérita Universidad Autónoma de Puebla (BUAP)**, passionate about programming and Artificial Intelligence.
 
-- 💡 Interesado en proyectos de **IA**, **ciencia de datos** y **machine learning**
-- 🧠 En constante aprendizaje y siempre dispuesto a colaborar
-- 🚀 Buscando oportunidades para crecer como desarrollador
+## My interests
+
+- 💡 i'm interested in **IA**, **data science** and **machine learning**
+- 🧠 Constantly learning and willing to collaborate
+- 🚀 Looking for opportunities to grow as a developer
 
 [![LinkedIn - Alfredo Vázquez](https://img.shields.io/badge/LinkedIn-Alfredo%20Vázquez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alfredo-dev-cs-ai/)
 
